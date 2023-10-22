@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning advanced python and java script tricks.
 - 📫 How to reach me: devprofstack@gmail.com
 - 😄 Pronouns: He/Him
+- OPEN TO WORK!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
